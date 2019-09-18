@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Connection>
+  <Server>192.168.0.215</Server>
+  <Port>3307</Port>
+  <Username>root</Username>
+  <Password>123456789</Password>
+  <Database>factorysystem</Database>
+</Connection>
